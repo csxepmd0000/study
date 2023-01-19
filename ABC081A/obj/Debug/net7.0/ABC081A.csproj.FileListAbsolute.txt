@@ -1,0 +1,15 @@
+C:\Users\chen\programing\AtCoder\ABC081A\obj\Debug\net7.0\ABC081A.csproj.AssemblyReference.cache
+C:\Users\chen\programing\AtCoder\ABC081A\obj\Debug\net7.0\ABC081A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chen\programing\AtCoder\ABC081A\obj\Debug\net7.0\ABC081A.AssemblyInfoInputs.cache
+C:\Users\chen\programing\AtCoder\ABC081A\obj\Debug\net7.0\ABC081A.AssemblyInfo.cs
+C:\Users\chen\programing\AtCoder\ABC081A\obj\Debug\net7.0\ABC081A.csproj.CoreCompileInputs.cache
+C:\Users\chen\programing\AtCoder\ABC081A\bin\Debug\net7.0\ABC081A.exe
+C:\Users\chen\programing\AtCoder\ABC081A\bin\Debug\net7.0\ABC081A.deps.json
+C:\Users\chen\programing\AtCoder\ABC081A\bin\Debug\net7.0\ABC081A.runtimeconfig.json
+C:\Users\chen\programing\AtCoder\ABC081A\bin\Debug\net7.0\ABC081A.dll
+C:\Users\chen\programing\AtCoder\ABC081A\bin\Debug\net7.0\ABC081A.pdb
+C:\Users\chen\programing\AtCoder\ABC081A\obj\Debug\net7.0\ABC081A.dll
+C:\Users\chen\programing\AtCoder\ABC081A\obj\Debug\net7.0\refint\ABC081A.dll
+C:\Users\chen\programing\AtCoder\ABC081A\obj\Debug\net7.0\ABC081A.pdb
+C:\Users\chen\programing\AtCoder\ABC081A\obj\Debug\net7.0\ABC081A.genruntimeconfig.cache
+C:\Users\chen\programing\AtCoder\ABC081A\obj\Debug\net7.0\ref\ABC081A.dll

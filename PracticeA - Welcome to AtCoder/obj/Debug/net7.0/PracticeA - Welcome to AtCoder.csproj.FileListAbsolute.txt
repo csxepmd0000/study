@@ -1,0 +1,15 @@
+C:\Users\chen\programing\AtCoder\PracticeA - Welcome to AtCoder\obj\Debug\net7.0\PracticeA - Welcome to AtCoder.csproj.AssemblyReference.cache
+C:\Users\chen\programing\AtCoder\PracticeA - Welcome to AtCoder\obj\Debug\net7.0\PracticeA - Welcome to AtCoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chen\programing\AtCoder\PracticeA - Welcome to AtCoder\obj\Debug\net7.0\PracticeA - Welcome to AtCoder.AssemblyInfoInputs.cache
+C:\Users\chen\programing\AtCoder\PracticeA - Welcome to AtCoder\obj\Debug\net7.0\PracticeA - Welcome to AtCoder.AssemblyInfo.cs
+C:\Users\chen\programing\AtCoder\PracticeA - Welcome to AtCoder\obj\Debug\net7.0\PracticeA - Welcome to AtCoder.csproj.CoreCompileInputs.cache
+C:\Users\chen\programing\AtCoder\PracticeA - Welcome to AtCoder\bin\Debug\net7.0\PracticeA - Welcome to AtCoder.exe
+C:\Users\chen\programing\AtCoder\PracticeA - Welcome to AtCoder\bin\Debug\net7.0\PracticeA - Welcome to AtCoder.deps.json
+C:\Users\chen\programing\AtCoder\PracticeA - Welcome to AtCoder\bin\Debug\net7.0\PracticeA - Welcome to AtCoder.runtimeconfig.json
+C:\Users\chen\programing\AtCoder\PracticeA - Welcome to AtCoder\bin\Debug\net7.0\PracticeA - Welcome to AtCoder.dll
+C:\Users\chen\programing\AtCoder\PracticeA - Welcome to AtCoder\bin\Debug\net7.0\PracticeA - Welcome to AtCoder.pdb
+C:\Users\chen\programing\AtCoder\PracticeA - Welcome to AtCoder\obj\Debug\net7.0\PracticeA - Welcome to AtCoder.dll
+C:\Users\chen\programing\AtCoder\PracticeA - Welcome to AtCoder\obj\Debug\net7.0\refint\PracticeA - Welcome to AtCoder.dll
+C:\Users\chen\programing\AtCoder\PracticeA - Welcome to AtCoder\obj\Debug\net7.0\PracticeA - Welcome to AtCoder.pdb
+C:\Users\chen\programing\AtCoder\PracticeA - Welcome to AtCoder\obj\Debug\net7.0\PracticeA - Welcome to AtCoder.genruntimeconfig.cache
+C:\Users\chen\programing\AtCoder\PracticeA - Welcome to AtCoder\obj\Debug\net7.0\ref\PracticeA - Welcome to AtCoder.dll

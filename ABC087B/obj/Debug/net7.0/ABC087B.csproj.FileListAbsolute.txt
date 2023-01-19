@@ -1,0 +1,15 @@
+C:\Users\chen\programing\AtCoder\ABC087B\obj\Debug\net7.0\ABC087B.csproj.AssemblyReference.cache
+C:\Users\chen\programing\AtCoder\ABC087B\obj\Debug\net7.0\ABC087B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chen\programing\AtCoder\ABC087B\obj\Debug\net7.0\ABC087B.AssemblyInfoInputs.cache
+C:\Users\chen\programing\AtCoder\ABC087B\obj\Debug\net7.0\ABC087B.AssemblyInfo.cs
+C:\Users\chen\programing\AtCoder\ABC087B\obj\Debug\net7.0\ABC087B.csproj.CoreCompileInputs.cache
+C:\Users\chen\programing\AtCoder\ABC087B\bin\Debug\net7.0\ABC087B.exe
+C:\Users\chen\programing\AtCoder\ABC087B\bin\Debug\net7.0\ABC087B.deps.json
+C:\Users\chen\programing\AtCoder\ABC087B\bin\Debug\net7.0\ABC087B.runtimeconfig.json
+C:\Users\chen\programing\AtCoder\ABC087B\bin\Debug\net7.0\ABC087B.dll
+C:\Users\chen\programing\AtCoder\ABC087B\bin\Debug\net7.0\ABC087B.pdb
+C:\Users\chen\programing\AtCoder\ABC087B\obj\Debug\net7.0\ABC087B.dll
+C:\Users\chen\programing\AtCoder\ABC087B\obj\Debug\net7.0\refint\ABC087B.dll
+C:\Users\chen\programing\AtCoder\ABC087B\obj\Debug\net7.0\ABC087B.pdb
+C:\Users\chen\programing\AtCoder\ABC087B\obj\Debug\net7.0\ABC087B.genruntimeconfig.cache
+C:\Users\chen\programing\AtCoder\ABC087B\obj\Debug\net7.0\ref\ABC087B.dll
